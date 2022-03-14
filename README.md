@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth Marfatia
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on DS related projects
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on Blockchain related projects
 - 📫 How to reach me linkedin.com/in/parth-marfatia-4a8a1a183/
 
 <!---
