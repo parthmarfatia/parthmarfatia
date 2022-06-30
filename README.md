@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth Marfatia
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning Blockchain App Development
-- 💞️ I’m looking to collaborate on Blockchain related projects
+- 💞️ I’m looking to collaborate on Frontend and Blockchain related projects
 - 📫 How to reach me linkedin.com/in/parth-marfatia-4a8a1a183/
 
 <!---
