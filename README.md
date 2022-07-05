@@ -3,7 +3,7 @@ parthmarfatia/parthmarfatia is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm Parth Marfatia👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=parthmarfatia&color=yellow)</div>
+## Hi there, I'm Parth Marfatia👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=parthmarfatia&color=yellow)</div>
 
 ## I'm a Full stack Developer!!!
 
