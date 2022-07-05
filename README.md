@@ -57,5 +57,3 @@ You can click the Preview link to take a look at your changes.
 [instagram]: instagram.com/parth_marfatia/](https://www.instagram.com/parth_marfatia/
 [blog]: https://eresh-zealous.medium.com/
 [linkedin]: https://www.linkedin.com/in/parth-marfatia-4a8a1a183/
-[stackoverflow]: https://stackoverflow.com/users/1873344/eresh/
-](url) 
