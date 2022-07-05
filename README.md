@@ -14,10 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me
 
-[img align="left" alt="Instagram" src="https://www.flaticon.com/free-icon/instagram_2111463?term=social%20media&page=1&position=2&page=1&position=2&related_id=2111463&origin=tag"][instagram]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+
 <br />
 <br />
 
