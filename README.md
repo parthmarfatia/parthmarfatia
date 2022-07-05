@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me
 
+[img align="left" alt="Instagram" src="https://www.flaticon.com/free-icon/instagram_2111463?term=social%20media&page=1&position=2&page=1&position=2&related_id=2111463&origin=tag"][instagram]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
@@ -43,9 +44,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 
-
-➡️ [more blog posts...](https://eresh-zealous.medium.com/)
-
 ### :zap: GitHub Stats
 
 <center>
@@ -57,6 +55,7 @@ You can click the Preview link to take a look at your changes.
   </table>
 </center>
 
+[instagram]: instagram.com/parth_marfatia/](https://www.instagram.com/parth_marfatia/
 [blog]: https://eresh-zealous.medium.com/
 [linkedin]: https://www.linkedin.com/in/parth-marfatia-4a8a1a183/
 [stackoverflow]: https://stackoverflow.com/users/1873344/eresh/
