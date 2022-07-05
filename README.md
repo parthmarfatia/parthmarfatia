@@ -58,5 +58,5 @@ You can click the Preview link to take a look at your changes.
 </center>
 
 [blog]: https://eresh-zealous.medium.com/
-[linkedin]: [https://www.linkedin.com/in/eresh-gorantla-bb8b2722/](https://www.linkedin.com/in/parth-marfatia-4a8a1a183/]
+[linkedin]: https://www.linkedin.com/in/parth-marfatia-4a8a1a183/
 [stackoverflow]: https://stackoverflow.com/users/1873344/eresh/
