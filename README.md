@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
+<a href="https://discord.gg/parth#9737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="parth#9737" height="30" width="40" /></a>
 <br />
 <br />
 
