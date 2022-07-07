@@ -29,7 +29,7 @@
 🤜 Looking to collaborate on open source projects <br>
 🌐 Exploring the world of web3 <br>
 👨‍💻 Working remotely for a MNC <br>
-🚀 Contact me if you want a website for your business <br>
+🚀 Contact me to collaborate on a project<br>
 <br />
 
 
