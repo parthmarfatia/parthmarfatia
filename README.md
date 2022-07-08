@@ -30,6 +30,7 @@
 🌐 Exploring the world of web3 <br>
 👨‍💻 Working remotely for a MNC <br>
 🚀 Contact me if you need a website<br>
+📫 parthmarfatia789@gmail.com
 <br />
 
 
