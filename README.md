@@ -29,13 +29,12 @@
 
 <h1 align="left"> Hi there! <br>My name is Parth<br>and I am a<br>Full Stack Developer</h1>
 
-🤜 Contriubuting to open source projects <br>
+<p align="left">🤜 Contriubuting to open source projects <br>
 🌐 Exploring the world of web3 <br>
 👨‍💻 Working remotely for a MNC <br>
 🚀 Contact me if you need a website<br>
 📫 parthmarfatia789@gmail.com
-<br />
-
+<br /></p>
 
   
 <h1 align="left">Tech Stack</h1>
