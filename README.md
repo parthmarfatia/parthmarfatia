@@ -30,7 +30,7 @@
 <h1 align="left"> Hi there! <br>My name is Parth<br>and I am a<br>Front End Developer</h1>
 
 <p align="left">🤜 Contriubuting to open source projects <br>
-🌐 Exploring the world of web3 <br>
+🌐 Exploring web3 <br>
 👨‍💻 Working remotely for a MNC <br>
 🚀 Contact me if you need a website<br>
 📫 parthmarfatia789@gmail.com
