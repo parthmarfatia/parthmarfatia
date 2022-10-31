@@ -13,13 +13,6 @@
 <a href="https://twitter.com/parth_marfatia">
   <img align="left" alt="Parth's Twitter | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/parth_marfatia/">
-  <img align="left" alt="Parth's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-</a><div align="right">
-<a href="https://stackoverflow.com/users/8962419/parth-marfatia">
-  <img align="left" alt="Parth's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
-</a><div align="right">
-  
   ![Profile views](https://gpvc.arturio.dev/parthmarfatia)
 </div>
 
