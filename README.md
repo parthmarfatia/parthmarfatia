@@ -13,6 +13,9 @@
 <a href="https://twitter.com/parth_marfatia">
   <img align="left" alt="Parth's Twitter | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+<div align="right">
+  
   ![Profile views](https://gpvc.arturio.dev/parthmarfatia)
 </div>
 
