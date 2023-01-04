@@ -1,11 +1,12 @@
-<a href="mailto:parthmarfatia789@gmail.com">Mail</a>
-<a href="https://www.linkedin.com/in/parth-marfatia-4a8a1a183/">Linkedin</a>
-<a href="https://discordapp.com/users/parth#9737">Discord</a>
-<a href="https://leetcode.com/parthmarfatia/">Leetcode</a>
-<a href="https://twitter.com/parth_marfatia">Twitter</a>
-<span>
+<div align="right">
+  
   ![Profile views](https://gpvc.arturio.dev/parthmarfatia)
-</span>
+</div>
+<a href="mailto:parthmarfatia789@gmail.com">Mail</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/parth-marfatia-4a8a1a183/">Linkedin</a> &nbsp; &nbsp; &nbsp;
+<a href="https://discordapp.com/users/parth#9737">Discord</a> &nbsp; &nbsp; &nbsp;
+<a href="https://leetcode.com/parthmarfatia/">Leetcode</a> &nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/parth_marfatia">Twitter</a> &nbsp; &nbsp; &nbsp;
 
 * * *
 
