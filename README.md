@@ -21,16 +21,15 @@
 
 * * *
 
-<h3>Tech Stack</h3>
-
-*
+<h1>Tech Stack</h1>
 
 <b>Languages:</b> Javascript Typescript Python <br>
-Frontend: HTML5 CSS3 Bootstrap Tailwind React.js Redux <br>
-Backend: Firebase Firestore MongoDb <br>
-CI/CD: Git GitHub Gitlab Docker Harness Vault Rancher <br>
-Tools: Jira Confluence Excel <br>
+<b>Frontend:</b> HTML5 CSS3 Bootstrap Tailwind React.js Redux <br>
+<b>Backend:</b> Firebase Firestore MongoDb <br>
+<b>CI/CD:</b> Git GitHub Gitlab Docker Harness Vault Rancher <br>
+<b>Tools:</b> Jira Confluence Excel <br>
 
+* * *
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parthmarfatia&show_icons=true&theme=gotham" alt="parthmarfatia" />
 
