@@ -19,9 +19,18 @@
 📫 parthmarfatia789@gmail.com
 <br /></p>
 
-  
-<h1 align="left">Tech Stack</h1>
-<h3>Programming Languages: Typescript Javascript</h3>
+* * *
+
+<h3>Tech Stack</h3>
+
+*
+
+<b>Languages:</b> Javascript Typescript Python <br>
+Frontend: HTML5 CSS3 Bootstrap Tailwind React.js Redux <br>
+Backend: Firebase Firestore MongoDb <br>
+CI/CD: Git GitHub Gitlab Docker Harness Vault Rancher <br>
+Tools: Jira Confluence Excel <br>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parthmarfatia&show_icons=true&theme=gotham" alt="parthmarfatia" />
 
