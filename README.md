@@ -23,7 +23,7 @@
 
 <h1>Tech Stack</h1>
 <i>
-⚓<b>Languages:</b>  Javascript Typescript Python <br>
+⚓<b>Languages:</b> Javascript Typescript Python <br>
 ⚓<b>Frontend:</b> HTML5 CSS3 Bootstrap Tailwind React.js Redux <br>
 ⚓<b>Backend:</b> Firebase Firestore MongoDb <br>
 ⚓<b>CI/CD:</b> Git GitHub Gitlab Docker Harness Vault Rancher <br>
