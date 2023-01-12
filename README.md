@@ -27,7 +27,7 @@
 ⚓<b>Frontend:</b> HTML5 CSS3 Bootstrap Tailwind React.js Redux <br>
 ⚓<b>Backend:</b> Firebase Firestore MongoDb <br>
 ⚓<b>CI/CD:</b> Git GitHub Gitlab Docker Harness Vault Rancher <br>
-⚓<b>Tools:</b> Jira Confluence Excel <br>
+⚓<b>Tools:</b> Jira Confluence Word PowerPoint Excel <br>
 </i>
 
 * * *
