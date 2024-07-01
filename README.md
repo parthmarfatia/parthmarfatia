@@ -1,7 +1,4 @@
-<div align="right">
-  
-  ![Profile views](https://gpvc.arturio.dev/parthmarfatia)
-</div>
+
 <a href="mailto:parthmarfatia789@gmail.com">Mail</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/parth-marfatia-4a8a1a183/">Linkedin</a> &nbsp; &nbsp; &nbsp;
 <a href="https://discordapp.com/users/parth#9737">Discord</a> &nbsp; &nbsp; &nbsp;
